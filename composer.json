@@ -1,0 +1,13 @@
+{
+    "name": "kamal/workflowy-bullet-journal",
+    "type": "project",
+    "require": {
+        "johansatge/workflowy-php": "^0.1.3"
+    },
+    "authors": [
+        {
+            "name": "Kamal Nasser",
+            "email": "hello@kamal.io"
+        }
+    ]
+}

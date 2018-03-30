@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5ef50affb1daf384b434dae9b926215a",
+    "packages": [
+        {
+            "name": "johansatge/workflowy-php",
+            "version": "0.1.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/johansatge/workflowy-php.git",
+                "reference": "80c8b01ef53c1d72295ac903046030695d9156e9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/johansatge/workflowy-php/zipball/80c8b01ef53c1d72295ac903046030695d9156e9",
+                "reference": "80c8b01ef53c1d72295ac903046030695d9156e9",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "WorkFlowyPHP\\": "src/"
+                },
+                "psr-0": {
+                    "WorkFlowyPHP": "src/"
+                },
+                "classmap": [],
+                "files": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Johan Satgé",
+                    "homepage": "http://johansatge.com"
+                }
+            ],
+            "description": "An unofficial WorkFlowy API",
+            "homepage": "https://github.com/johansatge/workflowy-php",
+            "keywords": [
+                "api",
+                "php",
+                "workflowy"
+            ],
+            "time": "2017-02-28T20:05:19+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -104,6 +104,7 @@ try
     }
 
     $yesterday->setDescription($archived);
+    $yesterday->setComplete(true);
     $today->setDescription($ready);
     exit('🚀  Done');
 }
